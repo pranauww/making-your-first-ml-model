@@ -4,8 +4,8 @@
 This repository contains a simple machine learning model built using TensorFlow to predict Fahrenheit temperatures given Celsius inputs. The model is trained using a small dataset and demonstrates the basics of training a neural network for a straightforward regression task.
 
 ## Files Included
-- `CelsiusToFahrenheit.ipynb` - Jupyter Notebook with the complete code to train and test the model.
-- `Celsius_to_Fahrenheit.csv` - Dataset containing Celsius-to-Fahrenheit conversion values used for training.
+- `CelsiusToFahrenheit_MLSN.ipynb` - Jupyter Notebook with the complete code to train and test the model.
+- `Celsius+to+Fahrenheit.csv` - Dataset containing Celsius-to-Fahrenheit conversion values used for training.
 
 ## Requirements
 To run this project, you need:
